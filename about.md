@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-description: MK Choi IT Column 소개
+description: Tech Notes 소개
 permalink: /about/
 ---
 

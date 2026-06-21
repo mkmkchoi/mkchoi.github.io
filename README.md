@@ -1,6 +1,6 @@
-# MK Choi IT Column
+# Tech Notes
 
-GitHub Pages에 IT/AI 관련 글을 길게 정리하고, LinkedIn과 리멤버에는 요약과 원문 링크를 공유하기 위한 개인 칼럼 저장소입니다.
+GitHub Pages에 IT/AI 관련 글을 저장하고 공유하기 위한 개인 저장소입니다.
 
 ## Structure
 
@@ -21,21 +21,11 @@ date: 2026-06-21
 category: AI Engineering
 permalink: /2026-06-transformer-fine-tuning/
 image: /assets/images/transformer-fine-tuning-hero.png
-linkedin_summary: |
-  LinkedIn에 올릴 3-5문장 요약을 여기에 둡니다.
-remember_summary: |
-  리멤버에 맞춘 더 짧고 실무적인 요약을 여기에 둡니다.
 ---
 
 본문을 작성합니다.
 ```
 
-## Publishing Flow
+Post URL:
 
-1. GitHub Pages에 자세한 글을 작성합니다.
-2. 글의 `linkedin_summary`, `remember_summary`를 다듬습니다.
-3. LinkedIn과 리멤버에는 요약과 GitHub Pages 원문 링크를 함께 게시합니다.
-
-First post URL:
-
-<https://mkmkchoi.github.io/posts/2026-06-transformer-fine-tuning/>
+<https://mkmkchoi.github.io/posts/>
