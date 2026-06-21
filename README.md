@@ -19,7 +19,7 @@ title: "글 제목"
 description: "공유 링크에 노출될 짧은 설명"
 date: 2026-06-21
 category: AI Engineering
-permalink: /posts/2026-06-transformer-fine-tuning/
+permalink: /2026-06-transformer-fine-tuning/
 image: /assets/images/transformer-fine-tuning-hero.png
 linkedin_summary: |
   LinkedIn에 올릴 3-5문장 요약을 여기에 둡니다.
@@ -38,4 +38,4 @@ remember_summary: |
 
 First post URL:
 
-<https://mkchoi.github.io/posts/2026-06-transformer-fine-tuning/>
+<https://mkmkchoi.github.io/posts/2026-06-transformer-fine-tuning/>
