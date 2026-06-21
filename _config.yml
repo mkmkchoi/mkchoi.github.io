@@ -1,0 +1,23 @@
+title: MK Choi IT Column
+description: IT와 AI 개발 주제를 실무 관점으로 정리하는 GitHub Pages 아카이브
+url: "https://mkchoi.github.io"
+baseurl: ""
+lang: ko-KR
+timezone: Asia/Seoul
+author:
+  name: MK Choi
+
+markdown: kramdown
+permalink: /posts/:year-:month-:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+exclude:
+  - README.md
+  - vendor
+  - node_modules
